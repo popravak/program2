@@ -3,6 +3,6 @@ FROM ubuntu
 
 WORKDIR /program2
 
-COPY hello . 
+COPY program . 
 
 ENTRYPOINT [ "/program2/program" ]
