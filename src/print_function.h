@@ -2,7 +2,7 @@
 
 int print_from_function () {
 
-    printf ("\nprogram2: b2.\n");
+    printf ("\nprogram2: b2.\n\n");
 
     return 0;
 }
